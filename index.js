@@ -60,4 +60,4 @@ function handMond() {
   tyTex(textContent);
 }
 
-setInterval(handMond, 100); 
+setInterval(handMond, 10); 
